@@ -1,0 +1,2 @@
+2022-08-15 22:47:49 - selenium_base_case.py [line:14 - INFO - 浏览器的操作 - 测试用例类初始化]
+2022-08-15 22:47:49 - browser.py [line:37 - INFO - 浏览器的操作 - 打开浏览器驱动:C:\Users\pelag\PycharmProjects\p17_code\src\zantao_ui_autotest_frame\drivers\chromedriver.exe]
